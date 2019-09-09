@@ -1,0 +1,19 @@
+1、Kaggle比赛项目总结（项目流程）：
+https://www.cnblogs.com/volcao/p/9523254.html
+
+2、keras系列，Application中五款已训练模型、VGG16框架：
+https://blog.csdn.net/sinat_26917383/article/details/72859145
+
+3、XGBoost Feature Importance(原始xgboost训练网页记录）：
+https://www.kaggle.com/cast42/xgboost-in-python-with-rmspe-v2/output
+
+4、https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5
+
+5、Kaggle 竞赛项目——Rossmann 销售预测 Top1%
+https://blog.csdn.net/aicanghai_smile/article/details/80987666
+
+6、P7毕业项目，猫狗大战。详解，含全部代码
+https://blog.csdn.net/duron101/article/details/82534310
+
+7、卡尔曼滤波算法详细推导
+https://blog.csdn.net/victor_zy/article/details/82862904
